@@ -1,0 +1,17 @@
+title: Enterprise AI North Star
+description: Essays on enterprise AI architecture, semantics, governance and intelligent systems.
+theme: minima
+url: "https://kevinprinsloo.github.io"
+baseurl: "/enterprise-ai-north-star"
+author: Kevin Prinsloo
+lang: en-GB
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
