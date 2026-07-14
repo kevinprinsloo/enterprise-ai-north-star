@@ -10,6 +10,10 @@ description: "Why semantic contracts, ontologies, knowledge graphs and AI contro
 
 ## Why semantic contracts, ontologies, knowledge graphs and AI control planes are becoming foundational to enterprise AI
 
+![A luminous North Star above layered translucent planes representing the levels of an enterprise intelligence architecture.](./header-image.png)
+
+*Image created by the author using openai-gpt-5.6-sol.*
+
 Most enterprise AI strategies begin with the wrong question.
 
 They ask:
